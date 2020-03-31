@@ -45,20 +45,20 @@ Notice that there is a Patient Zero in this project, who turns into Infected Con
 
 ## Requirements
 
-Unity2018.3.10f1 or above is prefered.
+Unity 2018.3.10f1 or above is prefered.
 
 
 
 ## Quick Start
 
-1. First go to [Unity](https://unity3d.com/)  download a released version of Unity Editor. This project requires Unity versions Unity2018.3.10f1 or up. The versions up to 2018.3.10f1 should **probably** work but have not been tested.
+1. First go to [Unity](https://unity3d.com/)  download a released version of Unity Editor. This project requires Unity versions Unity 2018.3.10f1 or up. The versions up to 2018.3.10f1 should **probably** work but have not been tested.
 
 2. Clone this repo or download zip file. 
 
 3. Open this project in Unity Editor.
 4. Find Assets/Scenes/main.secne, then hit play.
 
-You can also download the .unitypackage from here and import it to Unity Editor.
+You can also download the .unitypackage from [here](https://github.com/justinw-fun/COVID-19SimulationInCollege/releases) and import it to Unity Editor.
 
 ## Reference
 
